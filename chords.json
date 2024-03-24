@@ -1,0 +1,268 @@
+{
+    "homeScreen": {
+      "staticContent": {
+        "title": "Biblioteca de acordes",
+        "subtitle": "Aprende acordes de guitarra para principiantes",
+        "description": "Sube de nivel tu conocimiento de acordes",
+        "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/chords.png?alt=media&token=315d71ff-bf48-4be9-9ac6-f79ab29c63e5"
+      },
+      "chords": {
+        "groups":[
+          {
+            "id": 1,
+            "name": "A",
+            "latinName": "La"
+          },
+          {
+            "id": 2,
+            "name": "B",
+            "latinName": "Si"
+          },
+          {
+            "id": 3,
+            "name": "C",
+            "latinName": "Do"
+          },
+          {
+            "id": 4,
+            "name": "D",
+            "latinName": "Re"
+          },
+          {
+            "id": 5,
+            "name": "E",
+            "latinName": "Mi"
+          },
+          {
+            "id": 6,
+            "name": "F",
+            "latinName": "Fa"
+          },
+          {
+            "id": 7,
+            "name": "G",
+            "latinName": "Sol"
+          }
+        ],
+        "basics": [
+          {
+            "id": 1,
+            "groupId": 1,
+            "note": "A",
+            "latinNote": "La",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/A.png?alt=media&token=fdac8c12-838a-42c8-8f9d-40ae1854f412"
+          },
+          {
+            "id": 2,
+            "groupId": 1,
+            "note": "A7",
+            "latinNote": "LA Séptima",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/A7.png?alt=media&token=84d13244-911a-4a6c-aab8-d041651c5c0f"
+          },
+          {
+            "id": 2,
+            "groupId": 1,
+            "note": "Am",
+            "latinNote": "La menor",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Am.png?alt=media&token=f9b29bbf-5709-4d36-a247-dbf353ea5f45"
+          },
+          {
+            "id": 3,
+            "groupId": 1,
+            "note": "Asus2",
+            "latinNote": "La sus2",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Asus2.png?alt=media&token=a2c65cf2-3b30-4d5c-81eb-d091bf0bb074"
+          },
+          {
+            "id": 4,
+            "groupId": 1,
+            "note": "Asus4",
+            "latinNote": "La sus4",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Asus2.png?alt=media&token=a2c65cf2-3b30-4d5c-81eb-d091bf0bb074"
+          },
+          {
+            "id": 5,
+            "groupId": 2,
+            "note": "B7",
+            "latinNote": "Si séptima",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/B7.png?alt=media&token=73f24e05-bd1e-4a1f-a2f8-edbc2c5158ef"
+          },
+          {
+            "id": 6,
+            "groupId": 2,
+            "note": "Bm",
+            "latinNote": "Si menor",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Bm.png?alt=media&token=84f79f4d-ccbb-4d8b-b49d-0eba8f962cec"
+          },
+          {
+            "id": 7,
+            "groupId": 2,
+            "note": "Bsus4",
+            "latinNote": "Si sus4",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Bsus4.png?alt=media&token=96f335e0-861c-4153-9067-aeec305dff89"
+          },
+          {
+            "id": 8,
+            "groupId": 3,
+            "note": "C",
+            "latinNote": "Do",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/C.png?alt=media&token=3f23b13f-793f-4a0b-b9ba-0adec4d20332"
+          },
+          {
+            "id": 9,
+            "groupId": 3,
+            "note": "C7",
+            "latinNote": "Do séptima",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/C7.png?alt=media&token=fdceb718-edfb-45a7-8d21-204481e9cdbf"
+          },
+          {
+            "id": 10,
+            "groupId": 3,
+            "note": "C#m7",
+            "latinNote": "Do sostenido 7",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/C%23m7.png?alt=media&token=5ec57b07-1cc7-4f88-a602-f07091e924fb"
+          },
+          {
+            "id": 11,
+            "groupId": 3,
+            "note": "Cmaj7",
+            "latinNote": "Do mayor 7",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Cmaj7.png?alt=media&token=b580051e-55d7-47c6-83f8-d36cee7ff7e3"
+          },
+          {
+            "id": 12,
+            "groupId": 3,
+            "note": "Cadd9",
+            "latinNote": "Do mayor con novena añadida",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Cadd9.png?alt=media&token=7d69d68d-b46d-49f6-b2d2-0a7086b166de"
+          },
+          {
+            "id": 13,
+            "groupId": 4,
+            "note": "D",
+            "latinNote": "Re",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/D.png?alt=media&token=088d2eb1-439c-4ba0-be58-ed52f30cf0da"
+          },
+          {
+            "id": 14,
+            "groupId": 4,
+            "note": "Dm",
+            "latinNote": "Re menor",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Dm.png?alt=media&token=c1dfc617-0283-4175-a31f-ec06629800c7"
+          },
+          {
+            "id": 15,
+            "groupId": 4,
+            "note": "Dsus2",
+            "latinNote": "Re sus2",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Dsus2.png?alt=media&token=5e70c707-a9d3-4b94-85db-9c3b7ac6b396"
+          },
+          {
+            "id": 16,
+            "groupId": 4,
+            "note": "Dsus4",
+            "latinNote": "Re sus4",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Dsus4.png?alt=media&token=34b2ffb7-5c8f-4a16-9a0e-8824904003ed"
+          },
+          {
+            "id": 17,
+            "groupId": 4,
+            "note": "Dadd11",
+            "latinNote": "Re mayor con undécima añadida",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Dadd11.png?alt=media&token=8490abe4-5227-4e06-b80c-c7b75ce529df"
+          },
+          {
+            "id": 18,
+            "groupId": 5,
+            "note": "E",
+            "latinNote": "Mi",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/E.png?alt=media&token=13082b71-52ef-4bd8-afec-3b6861cef810"
+          },
+          {
+            "id": 19,
+            "groupId": 5,
+            "note": "E7",
+            "latinNote": "Mi séptima",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/E7.png?alt=media&token=9c3674bb-193a-44c9-a6d7-ed85cb7eb574"
+          },
+          {
+            "id": 20,
+            "groupId": 5,
+            "note": "Em",
+            "latinNote": "Mi menor",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Em.png?alt=media&token=251b9140-e338-4226-9615-5e2d5823ca94"
+          },
+          {
+            "id": 21,
+            "groupId": 5,
+            "note": "Em7",
+            "latinNote": "Mi menor séptima",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Em7.png?alt=media&token=e3605227-3dac-4b54-a229-63f7fe159248"
+          },
+          {
+            "id": 22,
+            "groupId": 5,
+            "note": "Esus4",
+            "latinNote": "Mi sus4",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Esus4.png?alt=media&token=158f2c62-be82-45e0-85ce-7d06c20edc5f"
+          },
+          {
+            "id": 23,
+            "groupId": 5,
+            "note": "Eadd9",
+            "latinNote": "Mi mayor con novena añadida",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Eadd9.png?alt=media&token=1eca2f1f-4075-4354-b118-716265b5d7ba"
+          },
+          {
+            "id": 24,
+            "groupId": 6,
+            "note": "F",
+            "latinNote": "Fa",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/F.png?alt=media&token=a381ca82-95c8-4528-b2af-0be6da22c2a7"
+          },
+          {
+            "id": 25,
+            "groupId": 6,
+            "note": "Fmaj7",
+            "latinNote": "Fa mayor 7",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Fmaj7.png?alt=media&token=f5b21dfa-e3a5-4d81-988f-2368427826f2"
+          },
+          {
+            "id": 26,
+            "groupId": 6,
+            "note": "Fadd9",
+            "latinNote": "Fa mayor con novena añadida",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Fadd9.png?alt=media&token=3fa56514-44c9-47ef-86ea-cecab34c601c"
+          },
+          {
+            "id": 27,
+            "groupId": 7,
+            "note": "G",
+            "latinNote": "Sol",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/G.png?alt=media&token=c01f6ab4-9708-4d6f-af7e-f7eb965945ef"
+          },
+          {
+            "id": 28,
+            "groupId": 7,
+            "note": "G (v2)",
+            "latinNote": "Sol (v2)",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/G-Variation.png?alt=media&token=14e30d87-4eb3-414a-bfb7-5769faa9306a"
+          },
+          {
+            "id": 29,
+            "groupId": 7,
+            "note": "Gadd9",
+            "latinNote": "Sol mayor con novena añadida",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Gadd9.png?alt=media&token=0c8de79d-bf39-485c-b522-926efe56c6ad"
+          },
+          {
+            "id": 30,
+            "groupId": 7,
+            "note": "Gadd11",
+            "latinNote": "Sol mayor con undécima añadida",
+            "chordImg": "https://firebasestorage.googleapis.com/v0/b/mrchordapp-34f1d.appspot.com/o/Gadd11.png?alt=media&token=7b3e500b-c608-426a-a98f-cc8540ab09d5"
+          }
+        ]
+      }
+    }
+  }
